@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KehulumBelay
+- 👋 Hi, I’m @Kehulum
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on ...
